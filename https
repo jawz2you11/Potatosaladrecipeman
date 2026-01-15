@@ -1,0 +1,62 @@
+Full code of my potato salad recipe 
+<!DOCTYPE html>
+ <html lang="en">
+<Head>
+    <meta charset="UTF-8">
+  <title>Potato Salad Recipe</title>
+  </head>
+  <body>
+    <img src="https://www.inspiredtaste.net/wp-content/uploads/2016/10/Easy-Potato-Salad-Recipe-1-1200.jpg" alt="a picture of creamy delicious potatoe salad" >
+  <h1>
+    Potato Salad Recipe
+    </h1>
+    <p>Creamy yummy potato salad that is quick and easy to make</p>
+    <section>
+  <h2>Ingredients</h2>
+    <ul>
+      <li>Potatos: Russets, Yukon gold, Baking</li>
+      <li>Seasonings: Iodine Salt, Pepper</li>
+      <li>Vegatables: Sweet Red Onions, Celery, </li>
+      <li>Herbs: Dill & Parsley</li>
+      <li>Creams: Mayo, Sour Cream, Mustard, Vinegar(apple cider)</li>
+
+      <h3>Amounts per </h3>
+        <ul>
+          <li>2 Pounds(907g) Potatoes</li>
+          <li>1 Tablespoon Apple Cider vinegar</li>
+          <li> 1/2 Cup(113g) Sour cream</li>
+          <li>1/4 cup(56g) mayonnaise</li>
+          <li>1 Tablespoon yellow mustard</li>
+          <li>1/2 medium red onion, finely chopped(not minced)</li>
+          <li>3 celery stalks, chopped to about 1/2 cup</li>
+          <li>1 pickle, finely chopped, 1/3 cup</li>
+          <li>Optional: 2 hardboiled eggs, peeled and chopped</li>
+          <li>1/4 cup chopped parsley dill, and cilantro</li>
+          <li>2tbsp Salt and Pepper</li>
+        
+    </section>
+
+    <h2>Instructions</h2>
+    <ol> 
+      <li>Cook potatoes in salted(1tbsp) water for taste
+        -Between 10-20mins on moderate heat.
+      </li>
+      <li>Pour vinegar over potatoes for flavor</li>
+      <li>Prepare ice bath: large bowl, 1 cup of ice, 1/2cup water</li>
+      <li>Chill potatoes</li>
+      <li>Peel Potatoes and chop into smaller pieces</li>
+      <li>In a seperate bowl:Mix together seasoning sour cream, mayonnaise, and mustard</li>
+      <li>Add everything together now, dont mash the potatoes!</li>
+      <li>Season with salt and pepper</li>
+      <li>Refrigerate for 30 minutes to let flavor improve.</li>
+      <li>Serve and ENJOY!!</li>
+
+
+
+
+
+
+    <footer> Copyright for <a href="https://www.inspiredtaste.net/22809/simple-potato-salad-recipe/">photo</a> 
+    Page created by Jamal Ward :) </footer>
+    </body>
+</html>
